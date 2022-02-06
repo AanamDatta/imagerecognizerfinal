@@ -1,0 +1,20 @@
+.heading {
+  font-size: 40px;
+  width: 80%;  
+}
+
+body {
+    background-color: pink;
+    color: white;
+}
+
+#name {
+    color: darkred;
+}
+
+#camera {
+    border: 2px dashed darkslateblue;
+    width: 350px;
+   height: 350px;
+  
+}
